@@ -1,9 +1,40 @@
 {
-  "posts": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 }
-  ],
-  "profile": { "name": "typicode" }
-}
+        "CARGAS": [
+            {
+                "ITEMS": [
+                    {
+                        "C6_QTDVEN": 250,
+                        "C6_PRODUTO": "410010018"
+                    }
+                ],
+                "C5_VEND2": 1,
+                "C5_XROTA": "MG07",
+                "ID_CARGA": "1338",
+                "C5_FILIAL": 302030,
+                "C5_TABELA": "036",
+                "C5_TRANSP": 1,
+                "C5_CLIENTE": 1011,
+                "C5_CONDPAG": 98,
+                "C5_VOLUME1": 1.092,
+                "TIPO_VENDA": "PA"
+            },
+            {
+                "ITEMS": [
+                    {
+                        "C6_QTDVEN": 25,
+                        "C6_PRODUTO": "910080001"
+                    }
+                ],
+                "C5_VEND2": 1,
+                "C5_XROTA": "MG07",
+                "ID_CARGA": "1338",
+                "C5_FILIAL": 302030,
+                "C5_TABELA": "036",
+                "C5_TRANSP": 1,
+                "C5_CLIENTE": 1011,
+                "C5_CONDPAG": 98,
+                "C5_VOLUME1": 1.092,
+                "TIPO_VENDA": "MR"
+            }
+        ]
+    }
