@@ -1,0 +1,409 @@
+[
+    {
+        "CARGAS": [
+            {
+                "ID_CARGA": "1338",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1011,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "PA",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410010018",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1338",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1011,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "MR",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "910080001",
+                        "C6_QTDVEN": 25
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CARGAS": [
+            {
+                "ID_CARGA": "1339",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1354,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "PA",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410010018",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1339",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1354,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "MR",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "910080001",
+                        "C6_QTDVEN": 25
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1339",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1354,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "AI",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410040013",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+             {
+                "ID_CARGA": "1339",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1354,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "AI",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410040013",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CARGAS": [
+            {
+                "ID_CARGA": "1340",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1397,
+                "C5_CONDPAG": 20,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "056",
+                "TIPO_VENDA": "PA",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410010018",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1340",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1397,
+                "C5_CONDPAG": 20,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "056",
+                "TIPO_VENDA": "MR",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "910080001",
+                        "C6_QTDVEN": 25
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1340",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1397,
+                "C5_CONDPAG": 20,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "AI",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410040013",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CARGAS": [
+            {
+                "ID_CARGA": "1340",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1352,
+                "C5_CONDPAG": 7,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "028",
+                "TIPO_VENDA": "PA",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410010018",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1340",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1352,
+                "C5_CONDPAG": 7,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "028",
+                "TIPO_VENDA": "MR",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "910080001",
+                        "C6_QTDVEN": 25
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1340",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1352,
+                "C5_CONDPAG": 7,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "028",
+                "TIPO_VENDA": "AI",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410040013",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CARGAS": [
+            {
+                "ID_CARGA": "1341",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1331,
+                "C5_CONDPAG": 8,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "142",
+                "TIPO_VENDA": "PA",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410010018",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1341",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1331,
+                "C5_CONDPAG": 8,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "142",
+                "TIPO_VENDA": "MR",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "910080001",
+                        "C6_QTDVEN": 25
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1341",
+                "C5_FILIAL": 302030,
+                "C5_CLIENTE": 1331,
+                "C5_CONDPAG": 8,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "AI",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410040013",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            }
+        ]
+    }
+    ,
+    {
+        "CARGAS": [
+            {
+                "ID_CARGA": "1342",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1396,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "PA",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410010018",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1342",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1396,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "MR",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "910080001",
+                        "C6_QTDVEN": 25
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1342",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1396,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "AI",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410040013",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "CARGAS": [
+            {
+                "ID_CARGA": "1343",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1279,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "PA",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410010018",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1343",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1279,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "MR",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "910080001",
+                        "C6_QTDVEN": 25
+                    }
+                ]
+            },
+            {
+                "ID_CARGA": "1343",
+                "C5_FILIAL": 302070,
+                "C5_CLIENTE": 1279,
+                "C5_CONDPAG": 98,
+                "C5_XROTA": "MG07",
+                "C5_TRANSP": 1,
+                "C5_VEND2": 1,
+                "C5_VOLUME1": 1.092,
+                "C5_TABELA": "036",
+                "TIPO_VENDA": "AI",
+                "ITEMS": [
+                    {
+                        "C6_PRODUTO": "410040013",
+                        "C6_QTDVEN": 250
+                    }
+                ]
+            }
+        ]
+    }
+]
