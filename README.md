@@ -1,2 +1,2 @@
 # apifake
-API fake para importação do Log Estoque
+API fake para importação de pedidos de venda.
